@@ -34,10 +34,14 @@ public class Student {
     }
    
     void testAll()
-    {
+ {
      System.out.println("Hello");
      return;
+<<<<<<< HEAD
     }
 
 void myTest();
+=======
+}
+>>>>>>> parent of d810246 (Update Results.java)
 }
